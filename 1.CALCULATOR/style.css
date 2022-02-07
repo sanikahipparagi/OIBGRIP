@@ -1,0 +1,49 @@
+h1
+{
+    color:aqua;
+    font-family : verdana;
+
+}
+.container
+{
+    text-align:center;
+}
+table
+{
+    margin:auto;
+}
+
+input
+{
+    font-size:34px;
+    border-radius : 11px;
+    border : 12px solid black;
+    width : 413px;
+    height : 46px;
+}
+button
+{
+    border : 3px solid black;
+    border-radius : 14px;
+    width : 84px;
+    height :63px;
+    background-color : LightGray;
+    font-size : 34px;
+
+}
+body
+{
+    background-color:grey;
+}
+.calci
+{
+    display: inline-block;
+    border : 11px solid black;
+    border-radius : 31px;
+    background-color : rgb(218, 206, 206);
+    padding : 10px;
+}
+#footer
+{
+    margin-bottom: 10px;
+}
