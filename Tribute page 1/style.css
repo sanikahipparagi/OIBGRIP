@@ -1,0 +1,53 @@
+#main
+{
+    max-width:1280px;
+    max-height:100px;
+    margin:30px auto;
+    padding: 15px;
+    border-radius: 5px;
+}
+body 
+{
+    background-image: url(https://img.freepik.com/free-photo/vintage-textured-watercolor-paper-background_53876-103939.jpg?w=996);
+    background-size: cover;
+}
+#title
+{
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#main > p 
+{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#img-div
+{
+    max-width:600px;
+    margin:0 auto;
+    padding: 15px;
+    background-color:#ffffff;
+}
+#image 
+{
+    max-width:142%;
+    padding-bottom: 12px;
+}
+#tribute-info 
+{
+    max-width:600px;
+    margin:0 auto;
+}
+#tribute-info > h3 
+{
+    text-align:center;
+}
+#tribute-info > ul li 
+{
+    margin-bottom:10px;
+    line-height: 30px;
+}
+h5 
+{
+    text-align:center;
+}
